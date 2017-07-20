@@ -1,0 +1,9 @@
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\bin\Debug\ChessCellCompare.exe.config
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\bin\Debug\ChessCellCompare.exe
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\bin\Debug\ChessCellCompare.pdb
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\obj\Debug\ChessCellCompare.csprojResolveAssemblyReference.cache
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\obj\Debug\ChessCellCompare.Form1.resources
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\obj\Debug\ChessCellCompare.Properties.Resources.resources
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\obj\Debug\ChessCellCompare.csproj.GenerateResource.Cache
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\obj\Debug\ChessCellCompare.exe
+c:\users\hesna\documents\visual studio 2013\Projects\ChessCellCompare\ChessCellCompare\obj\Debug\ChessCellCompare.pdb
